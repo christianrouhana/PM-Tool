@@ -1,13 +1,9 @@
 # CptS322_GroupProject
+    Idea Pending
 
-Idea Pending
-
-Christian Rouhana
-
-Daniel Lee
-
-Liyuan Wang
-
-Shinichiro Yamagami
-
-Paiyi Wang
+# Members:
+* Christian Rouhana
+* Daniel Lee
+* Liyuan Wang
+* Shinichiro Yamagami
+* Paiyi Wang
