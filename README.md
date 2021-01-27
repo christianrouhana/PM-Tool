@@ -1,5 +1,5 @@
-# CptS322_GroupProject
-    Idea Pending
+# PM-Tool  
+Lightweight project management tool with a simplistic approach
 
 # Members:
 * Christian Rouhana
