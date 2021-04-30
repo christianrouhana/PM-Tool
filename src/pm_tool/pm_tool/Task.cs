@@ -8,5 +8,12 @@ namespace pm_tool
 {
     class Task
     {
+        // Name
+        // Task info
+        // Priority
+
+        // getSchedule
+        // TaskCompleteness
+        // TimeNeeded
     }
 }
