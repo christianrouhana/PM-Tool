@@ -1,0 +1,7 @@
+E:\christian\Documents\PM-Tool\src\PM-Tool-Console\PM-Tool-Console\obj\Debug\PM-Tool-Console.csprojAssemblyReference.cache
+E:\christian\Documents\PM-Tool\src\PM-Tool-Console\PM-Tool-Console\obj\Debug\PM-Tool-Console.csproj.CoreCompileInputs.cache
+E:\christian\Documents\PM-Tool\src\PM-Tool-Console\PM-Tool-Console\bin\Debug\PM-Tool-Console.exe.config
+E:\christian\Documents\PM-Tool\src\PM-Tool-Console\PM-Tool-Console\bin\Debug\PM-Tool-Console.exe
+E:\christian\Documents\PM-Tool\src\PM-Tool-Console\PM-Tool-Console\bin\Debug\PM-Tool-Console.pdb
+E:\christian\Documents\PM-Tool\src\PM-Tool-Console\PM-Tool-Console\obj\Debug\PM-Tool-Console.exe
+E:\christian\Documents\PM-Tool\src\PM-Tool-Console\PM-Tool-Console\obj\Debug\PM-Tool-Console.pdb

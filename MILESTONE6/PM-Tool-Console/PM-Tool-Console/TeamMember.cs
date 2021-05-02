@@ -13,7 +13,7 @@ using System.Threading.Tasks;
  * contorl + k + c to comment(after type comment), control + shift + / to /**
  */
 
-namespace pm_tool
+namespace PM_Tool_Console
 {
     class TeamMember
     {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace pm_tool
+namespace PM_Tool_Console
 {
     class Task
     {

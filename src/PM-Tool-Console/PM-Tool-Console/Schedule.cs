@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace pm_tool
+namespace PM_Tool_Console
 {
     class Schedule
     {
@@ -32,6 +32,11 @@ namespace pm_tool
         }
 
         public List<Task> getTasks()
+        {
+            return tasks;
+        }
+
+        public List<Task> fetchTaskList()
         {
             return tasks;
         }
